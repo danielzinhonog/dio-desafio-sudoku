@@ -16,6 +16,3 @@ Desenvolvido em **Java**, o jogo é executado no terminal e permite que o usuár
 - Finalizar o jogo a qualquer momento.
 
 ---
-
-## 🧱 Estrutura do Projeto
-
